@@ -1,0 +1,58 @@
+# Certified Appsec Practitioner (CAP)
+
+<figure><img src="https://3577347090-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWrIcinZ87qSasUAtuqcU%2Fuploads%2FcPyPht0VEMRg4QfWZxjL%2Fimage.png?alt=media&#x26;token=f3ee6355-6c98-4bf1-8046-085fedde7668" alt=""><figcaption></figcaption></figure>
+
+Since the **SecOps Group** came up with a voucher that offered free certification to **Certified Appsec Practitioner** I will be creating notes here. I will be working on the Certified Appsec Practitioner.
+
+The Course Contents for Certified Appsec Practitioner are as follows:
+
+1. [Input Validation Mechanisms](https://rkive.gitbook.io/certified-appsec-practitioner-cap/input-validation-mechanisms)
+
+* [*Blacklisting*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/whitelisting-and-blacklisting)
+* [*Whitelisting*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/whitelisting-and-blacklisting)
+
+2\. [Cross-Site Scripting](https://rkive.gitbook.io/certified-appsec-practitioner-cap/cross-site-scripting)
+
+3\. [SQL Injection](https://rkive.gitbook.io/certified-appsec-practitioner-cap/sql-injection)
+
+4\. [XML External Entity attack](https://rkive.gitbook.io/certified-appsec-practitioner-cap/xml-external-entity-attack)
+
+5\. [Cross-Site Request Forgery](https://rkive.gitbook.io/certified-appsec-practitioner-cap/cross-site-request-forgery)
+
+6\. [Encoding, Encryption, and Hashing](https://rkive.gitbook.io/certified-appsec-practitioner-cap/encoding-encryption-and-hashing)
+
+7\. [Authentication related Vulnerabilities](https://rkive.gitbook.io/certified-appsec-practitioner-cap/authentication-related-vulnerabilities)
+
+* [*Brute force Attacks*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/brute-force-attacks)
+* [*Password Storage and Password Policy*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/password-storage-and-password-policy)
+
+8\. [Understanding of OWASP Top 10 Vulnerabilities](https://rkive.gitbook.io/certified-appsec-practitioner-cap/understanding-of-owasp-top-10-vulnerabilities)
+
+9\. [Security Best Practices and Hardening Mechanisms.](https://rkive.gitbook.io/certified-appsec-practitioner-cap/same-origin-policy)
+
+* [*Same Origin Policy*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/same-origin-policy)
+* [*Security Headers.*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/security-headers.)
+
+10. [TLS security](https://rkive.gitbook.io/certified-appsec-practitioner-cap/tls-security)
+
+* [*TLS Certificate Misconfiguration*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/tls-security)
+* [*Symmetric and Asymmetric Ciphers*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/tls-security)
+
+11. [Server-Side Request Forgery](https://rkive.gitbook.io/certified-appsec-practitioner-cap/cross-site-request-forgery)
+12. &#x20;[Authorization and Session Management related flaws –](https://rkive.gitbook.io/certified-appsec-practitioner-cap/authorization-and-session-management-related-flaws)
+
+* [*Insecure Direct Object Reference (IDOR)*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/insecure-direct-object-reference-idor)
+* [*Privilege Escalation*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/privilege-escalation)
+* [*Parameter Manipulation attacks*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/parameter-manipulation-attacks)
+* [*Securing Cookies.*](https://rkive.gitbook.io/certified-appsec-practitioner-cap/securing-cookies.)
+
+13. [Insecure File Uploads](https://rkive.gitbook.io/certified-appsec-practitioner-cap/insecure-file-uploads)
+14. [Code Injection Vulnerabilities](https://rkive.gitbook.io/certified-appsec-practitioner-cap/code-injection-vulnerabilities)
+15. [Business Logic Flaws](https://rkive.gitbook.io/certified-appsec-practitioner-cap/business-logic-flaws)
+16. [Directory Traversal Vulnerabilities](https://rkive.gitbook.io/certified-appsec-practitioner-cap/directory-traversal-vulnerabilities)
+17. [Security Misconfigurations.](https://rkive.gitbook.io/certified-appsec-practitioner-cap/security-misconfigurations.)
+18. [Information Disclosure.](https://rkive.gitbook.io/certified-appsec-practitioner-cap/information-disclosure.)
+19. [Vulnerable and Outdated Components.](https://rkive.gitbook.io/certified-appsec-practitioner-cap/vulnerable-and-outdated-components.)
+20. [Common Supply Chain Attacks and Prevention Methods.](https://rkive.gitbook.io/certified-appsec-practitioner-cap/common-supply-chain-attacks-and-prevention-methods.)
+
+**We will be following each of the above topics and studying them in detail.**
